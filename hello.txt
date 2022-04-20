@@ -1,2 +1,2 @@
 4/20 hello git!
-pull test
+update git test
